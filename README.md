@@ -1,4 +1,4 @@
-# cn-stock-trade-api 中国股票市场交易接口
+# 中国股票市场交易接口
 ### 合规接口
 1. 券商 QMT、PTRADE
 2. 同花顺 python 接口
