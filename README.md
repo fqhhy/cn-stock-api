@@ -14,5 +14,5 @@
 ### 模拟网页交易
 
 
-## 交流群
-[t.me/xyQuant](t.me/xyQuant)
+## 交流
+[t.me/cwfqh](t.me/cwfqh)
