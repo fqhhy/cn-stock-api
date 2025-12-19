@@ -1,7 +1,7 @@
 ## 中国股票市场交易接口
 ### 合规接口
 1. 券商 QMT、PTRADE
-2. 同花顺 python 接口
+2. 同花顺 python 接口  https://www.showdoc.com.cn/THSPythonSE/3269126718101134
 3. 通达信 python 接口
 4. 券商自研接口
 5. 极速柜台接口
