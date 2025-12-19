@@ -10,6 +10,11 @@
 1. 需要券商支持网页交易
    ```
    https://jy.xzsec.com/Login
+   https://weixin.citicsinfo.com/tztweb/hq/index.html
+   https://trade2.guosen.com.cn/gxwt/pc/login
+   https://xtrade.newone.com.cn/ssologin?t=jykstd
+   https://h5jy.gszq.com
+   https://m.touker.com/trading/trade/position 
    ```
    
 
