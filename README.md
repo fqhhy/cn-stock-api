@@ -8,7 +8,10 @@
    ```
    券商服务器运行
    ```
-3. 同花顺 python 接口  https://www.showdoc.com.cn/THSPythonSE/3269126718101134
+3. 同花顺 python 接口 
+   ```
+   不给开通了 https://www.showdoc.com.cn/THSPythonSE/3269126718101134
+   ```
 4. 通达信 python 接口  2025-11-29 内测版
 5. 券商自研极速柜台
    ```
