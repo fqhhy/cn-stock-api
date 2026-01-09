@@ -1,10 +1,23 @@
 ## 中国股票市场交易接口
 ### 券商合规接口
-1. 券商 QMT、PTRADE
-2. 同花顺 python 接口  https://www.showdoc.com.cn/THSPythonSE/3269126718101134
-3. 通达信 python 接口  
-4. 券商自研接口 
-5. 极速柜台接口
+1. 券商 QMT
+   ```
+   小资金使用优先推荐，小券商门槛极低，10w即可开通
+   ```
+2. PTRADE
+   ```
+   券商服务器运行
+   ```
+3. 同花顺 python 接口  https://www.showdoc.com.cn/THSPythonSE/3269126718101134
+4. 通达信 python 接口  2025-11-29 内测版
+5. 券商自研极速柜台
+   ```
+   华鑫证券奇点、中泰证券xtp
+   ```
+6. 第三方技术柜台
+   ```
+   宽睿OES、华锐ATP、华宝LTS、恒生UFT/UST/LDP、顶点HTS、金证快订、FPGA硬件柜台
+   ```
 
 ### 模拟客户端交易
 1. [ths-android-py](https://github.com/limitget/THS)  开源免费
