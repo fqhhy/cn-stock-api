@@ -7,11 +7,21 @@
 5. 极速柜台接口
 
 ### 模拟客户端交易
-1. [ths-android](https://github.com/limitget/THS)  开源免费
+1. [ths-android-py](https://github.com/limitget/THS)  开源免费
    ```
-   已知问题：下单接口数据包解析错误导致死循环，ftj解析出现死循环，minidatahead init时属性错误，只有下单接口、没用撤单/持仓等接口
+   已知问题：
+       下单接口数据包解析错误导致死循环
+       ftj解析出现死循环，
+       minidatahead init时属性错误
+       只有下单接口、没用撤单/持仓等接口
    ```
-
+2. [ths-android-java](https://github.com/misslng/10jqka)  开源免费
+   ```
+   已知问题：
+       ftj解析出现溢出问题
+       只有登录接口，没有券商登录、下单接口
+   ```
+3. 
 
 ### 模拟网页交易
 1. 封装好接口的git仓库
